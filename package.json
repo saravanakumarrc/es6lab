@@ -1,0 +1,20 @@
+{
+  "name": "es6lab",
+  "version": "1.0.0",
+  "description": "to learn es6 features",
+  "main": "constants_and_scoping.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node constants_and_scoping.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saravanakumarrc/es6lab.git"
+  },
+  "author": "India Dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saravanakumarrc/es6lab/issues"
+  },
+  "homepage": "https://github.com/saravanakumarrc/es6lab#readme"
+}
